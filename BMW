@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+<link  rel=" stylesheet" href="styleee.css">
+</head>
+<body>
+
+<header>
+	<div class="container">
+		<div class="col-div-6">
+			<p class="logo">BMW</p>
+        </div>
+
+		<div class="col-div-6">
+			<ul class="nav">
+				<li class="h"><a href="#">Ballina</a></li>
+				<li class="h"><a href="#">Modelet</a></li>
+				<li class="h"><a href="#">Rreth nesh</a></li>
+                <li><button>Kontakti</button></a></li>
+			</ul>
+
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</header>
+
+<section class="banner-section">
+	<div class="container">
+		<div class="col-div-6">
+			<h1 class="heading">Drive the world<br> with a BMW</h1>
+			<p class="p1">Comfort,sports,luxury all in one BMW </p>
+			<button class="btn">Read More</button>
+           
+		</div>
+		<div class="col-div-6">
+			<br><br><br><br>
+			<div style="text-align: center;"><img src="../GOLD Mobile/Downloads/bmww.png" class="ban-img"></div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</section>
+</body>
+</html>
